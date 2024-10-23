@@ -43,4 +43,8 @@ Criar um usuário administrativo
 
 ```bash python manage.py createsuperuser```
 
+Executar os containers docker
+
+```bash docker-compose up```
+
 
